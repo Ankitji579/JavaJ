@@ -5,5 +5,9 @@ public class Noob {
         Scanner sc = new Scanner(System.in);
         boolean a = sc.nextBoolean();
         System.out.println(a);
+        System.out.println(a);
+        System.out.println(a);
+        System.out.println(a);
+        System.out.println(a);
     }
 }
