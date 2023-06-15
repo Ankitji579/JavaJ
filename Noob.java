@@ -3,11 +3,11 @@ public class Noob {
     public static void main(String[] args){
         System.out.println("Write any number :");
         Scanner sc = new Scanner(System.in);
-        boolean a = sc.nextBoolean();
+        int a = sc.nextInt();
         System.out.println(a);
-        System.out.println(a);
-        System.out.println(a);
-        System.out.println(a);
-        System.out.println(a);
+        System.out.println(a+1);
+        System.out.println(a+2);
+        System.out.println(a+3);
+        System.out.println(a+4);
     }
 }
